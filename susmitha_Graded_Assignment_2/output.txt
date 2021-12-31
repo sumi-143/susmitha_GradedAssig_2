@@ -1,0 +1,95 @@
+Output for graded code assaginment 2
+
+
+Enter the number of companies
+1
+Enter current stock price of the company 1
+112.02
+Whether company's stock price rose today compare to yesterday?
+true
+
+-------------------------------
+Enter the operation that you want to perform
+1. Display the companies stock prices in ascending order
+2. Display the companies stock prices in descending order
+3. Display the total no of companies for which stock prices rose today
+4. Display the total no of companies for which stock prices declined today
+5. Search a specific stock price
+6. press 0 to exit
+-----------------------------------------------
+1
+Stock prices in ascending order are :
+112.02 
+
+-------------------------------
+Enter the operation that you want to perform
+1. Display the companies stock prices in ascending order
+2. Display the companies stock prices in descending order
+3. Display the total no of companies for which stock prices rose today
+4. Display the total no of companies for which stock prices declined today
+5. Search a specific stock price
+6. press 0 to exit
+-----------------------------------------------
+2
+Stock prices in descending order are :
+112.02 
+
+-------------------------------
+Enter the operation that you want to perform
+1. Display the companies stock prices in ascending order
+2. Display the companies stock prices in descending order
+3. Display the total no of companies for which stock prices rose today
+4. Display the total no of companies for which stock prices declined today
+5. Search a specific stock price
+6. press 0 to exit
+-----------------------------------------------
+3
+Total no of companies whose stock price rose today : 1
+
+-------------------------------
+Enter the operation that you want to perform
+1. Display the companies stock prices in ascending order
+2. Display the companies stock prices in descending order
+3. Display the total no of companies for which stock prices rose today
+4. Display the total no of companies for which stock prices declined today
+5. Search a specific stock price
+6. press 0 to exit
+-----------------------------------------------
+4
+Total no of companies whose stock price declined today : 0
+
+-------------------------------
+Enter the operation that you want to perform
+1. Display the companies stock prices in ascending order
+2. Display the companies stock prices in descending order
+3. Display the total no of companies for which stock prices rose today
+4. Display the total no of companies for which stock prices declined today
+5. Search a specific stock price
+6. press 0 to exit
+-----------------------------------------------
+5
+Enter the key value
+112.02
+Stock of value 112.02 is present
+
+-------------------------------
+Enter the operation that you want to perform
+1. Display the companies stock prices in ascending order
+2. Display the companies stock prices in descending order
+3. Display the total no of companies for which stock prices rose today
+4. Display the total no of companies for which stock prices declined today
+5. Search a specific stock price
+6. press 0 to exit
+-----------------------------------------------
+6
+
+-------------------------------
+Enter the operation that you want to perform
+1. Display the companies stock prices in ascending order
+2. Display the companies stock prices in descending order
+3. Display the total no of companies for which stock prices rose today
+4. Display the total no of companies for which stock prices declined today
+5. Search a specific stock price
+6. press 0 to exit
+-----------------------------------------------
+0

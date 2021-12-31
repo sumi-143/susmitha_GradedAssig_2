@@ -1,0 +1,16 @@
+
+a) T (n) = 3T (n/2) + n 
+ANS:.Θ(nlog23)
+
+b) T (n) = 64T (n/8) − n^2(log n) 
+ANS : NA
+
+c) T (n) = 2nT (n/2) + n^n 
+ANS : NA
+
+d) T (n) = 3T (n/3) + n/2 
+ANS : Θ(n logn)
+
+e) T (n) = 7T (n/3) + n^2
+ANS: Θ(n2) 
+
